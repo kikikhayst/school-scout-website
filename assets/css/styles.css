@@ -1,0 +1,64 @@
+@media (max-width: 767px) {
+  h1 {
+    font-size: 25px;
+  }
+}
+
+h3 {
+  font-size: 20px;
+}
+
+@media (max-width: 767px) {
+  p, {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 991px) {
+  .nav-item a {
+    font-size: small;
+  }
+}
+
+.border.rounded {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+}
+
+.col-fasilitas {
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+  /*flex-basis: 25%;*/
+  /*min-width: 25%;*/
+  margin: 5px;
+}
+
+#merah {
+  border-top: 10px solid #e0bbe4;
+}
+
+#ungu {
+  border-top: 10px solid #957dad;
+}
+
+#biru {
+  border-top: 10px solid #d291bc;
+}
+
+#biruMuda {
+  border-top: 10px solid #fedfd3;
+}
+
+#inti {
+  overflow: auto;
+}
+
+.brown {
+  color: rgb(162,76,39);
+}
+
+.judulContent.brown {
+  border-bottom: 2px solid rgb(162,76,39);
+  padding-bottom: 7.5px;
+}
+

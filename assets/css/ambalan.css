@@ -1,0 +1,12 @@
+.content {
+    margin: 30px 0;
+    padding: 20px 30px;
+}
+
+.content ul {
+    margin: 0 auto;
+}
+
+.content ul li {
+    list-style-type: none;
+}
